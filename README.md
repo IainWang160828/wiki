@@ -1,9 +1,10 @@
 ---
+description: 310 弄共享百科
 coverY: 0
 ---
 
-# Welcome!
+# 欢迎
 
-## Welcome aboard!
+欢迎广大业主来到百科，发光发热
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+这里会分享防疫知识, 团购信息, 社区新闻等信息
